@@ -1,0 +1,8 @@
+{
+  "short_name": "Digital Buisness Card",
+  "name": "Project 1 DBS",
+    "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
